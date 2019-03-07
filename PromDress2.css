@@ -1,0 +1,28 @@
+/*
+*Katherine Walton
+*Due Date 
+*Project Name and Description
+/* 
+
+/* The universal selector */
+
+* { 
+} 
+
+/* Body attributes here */
+
+body { background-color: deeppink
+
+} 
+h1 {
+    background-color: azure; /* color for background */
+    color:dimgray; /* color of text */
+}
+p { /* type selector for ALL paragraphs */
+    color:white
+}
+#redText { /* use an id to change text to red*/
+    color: red;
+}
+.greenText { /* use a class to change to change text to green in different kinds of elements */
+    color:black
